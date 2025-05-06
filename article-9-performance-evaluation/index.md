@@ -2,6 +2,15 @@
 
 This summary is by OpenAI ChatGPT.
 
+Requires organizations to monitor, measure, analyze, and evaluate the
+effectiveness of their management system. It includes internal audits,
+management reviews, and the use of relevant performance indicators to assess
+whether objectives are being met and if the system is functioning as intended.
+This article ensures that decisions are based on data and evidence, enabling
+continual improvement and timely responses to issues. By systematically
+evaluating performance, organizations can ensure accountability, transparency,
+and alignment with strategic goals.
+
 ## Purpose
 
 **Article 9: Performance Evaluation** is the **measurement and feedback engine**

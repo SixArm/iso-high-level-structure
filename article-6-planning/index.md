@@ -2,6 +2,15 @@
 
 This summary is by OpenAI ChatGPT.
 
+Outlines how an organization must plan actions to address risks and
+opportunities that could impact the management system’s intended outcomes. It
+requires identifying and evaluating risks and opportunities, setting measurable
+objectives, and determining actions needed to achieve them. This article also
+covers planning for changes and integrating the planning process into the
+organization’s overall management system. By focusing on proactive planning,
+Article 6 ensures that organizations are prepared to respond effectively to both
+potential threats and opportunities for improvement.
+
 ## Purpose
 
 **Article 6: Planning** in the ISO High-Level Structure (HLS) focuses on preparing the organization to effectively implement and manage its management system. It ensures that organizations **identify risks, set objectives, and plan actions** to meet requirements and drive continual improvement.

@@ -2,6 +2,15 @@
 
 This summary is by OpenAI ChatGPT.
 
+Defines the intended purpose and application range of any management system
+standard that adopts the HLS. It clarifies that the scope outlines the specific
+subject area the standard addresses—such as quality, environment, or
+occupational health and safety—and specifies the types of organizations or
+contexts in which it can be applied. This article sets the boundaries for how
+the standard should be used and what it aims to achieve, serving as the
+foundation for aligning various management system standards under a unified,
+consistent framework.
+
 ## Purpose
 
 Article 1 of any ISO standard is the section that describes the **scope** of the

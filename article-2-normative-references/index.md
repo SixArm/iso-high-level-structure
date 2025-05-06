@@ -2,6 +2,15 @@
 
 This summary is by OpenAI ChatGPT.
 
+Identifies any external documents that are essential for the application of the
+standard. If a standard includes normative references, these referenced
+documents are considered part of the standard’s requirements and must be
+followed to ensure full compliance. However, in many ISO management system
+standards based on the HLS, this clause typically states that there are no
+normative references, indicating that the standard is self-contained. This
+article ensures clarity about whether other standards or documents are legally
+or technically required for implementation.
+
 ## Purpose
 
 The purpose of **Article 2: Normative References** is to list all the external

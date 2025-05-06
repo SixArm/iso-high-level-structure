@@ -2,6 +2,15 @@
 
 This summary is by OpenAI ChatGPT.
 
+Provides a standardized set of key terms and definitions that are used
+consistently across all ISO management system standards. This article ensures a
+common understanding of essential concepts—such as "risk," "management system,"
+or "interested party"—to promote clarity and alignment across different
+standards. It may also reference additional definitions specific to the
+particular management system being addressed. By standardizing terminology,
+Article 3 helps organizations implement multiple ISO standards more efficiently
+and reduces confusion in interpretation and application.
+
 ## Purpose
 
 Its purpose is to establish a common understanding of key terms used throughout

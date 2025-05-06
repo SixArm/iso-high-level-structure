@@ -2,6 +2,16 @@
 
 This summary is by OpenAI ChatGPT.
 
+Requires organizations to understand and define the internal and external issues
+that affect their ability to achieve the intended outcomes of the management
+system. It emphasizes identifying relevant interested parties (such as
+customers, regulators, or employees) and understanding their needs and
+expectations. The article also calls for clearly determining the scope of the
+management system and ensuring that it aligns with the organization’s strategic
+direction. By establishing this contextual foundation, Article 4 ensures that
+the management system is tailored to the organization's unique circumstances and
+is strategically integrated into its operations.
+
 ## Purpose
 
 **Article 4: Context of the Organization** is a foundational section in all ISO management system standards under the **High-Level Structure (HLS)**. Its primary purpose is to help organizations **understand their internal and external environment** before developing or improving their management system.

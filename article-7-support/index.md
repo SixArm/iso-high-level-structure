@@ -2,6 +2,16 @@
 
 This summary is by OpenAI ChatGPT.
 
+Focuses on the resources and infrastructure needed to implement and maintain an
+effective management system. It requires organizations to ensure the
+availability of competent personnel, awareness of roles and responsibilities,
+effective communication, and properly controlled documented information. This
+article highlights the importance of providing the necessary support
+mechanisms—such as training, tools, and documentation—to enable the system to
+function as intended. By addressing these foundational elements, Article 7
+ensures the management system is both sustainable and capable of continuous
+performance improvement.
+
 ## Purpose
 
 **Article 7: Support** in the ISO High-Level Structure (HLS) ensures that the

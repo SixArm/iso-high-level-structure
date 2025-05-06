@@ -2,6 +2,15 @@
 
 This summary is by OpenAI ChatGPT.
 
+Deals with the execution of the plans and processes needed to meet the
+requirements of the management system. It requires organizations to implement
+and control operational processes, including those needed to address risks and
+opportunities, meet objectives, and fulfill compliance obligations. This article
+also covers managing changes, outsourcing, and ensuring that operations are
+carried out under controlled conditions. By focusing on the practical
+implementation of what has been planned, Article 8 ensures that the management
+system translates strategy into effective, consistent action.
+
 ## Purpose
 
 **Article 8: Operation** is the **action core** of the ISO High-Level Structure

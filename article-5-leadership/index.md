@@ -2,6 +2,16 @@
 
 This summary is by OpenAI ChatGPT.
 
+Emphasizes the critical role of top management in driving the effectiveness of
+the management system. It requires leaders to demonstrate commitment by taking
+accountability for system performance, aligning it with the organization’s
+strategic direction, and integrating it into core business processes. This
+article also mandates leadership to establish a clear policy, assign relevant
+roles and responsibilities, and ensure that resources and communication are
+adequate. By placing leadership at the center, Article 5 ensures that the
+management system is not just a procedural formality but a strategic tool
+supported and guided from the top.
+
 ## Purpose
 
 **Article 5: Leadership** is a central pillar of the ISO High-Level Structure

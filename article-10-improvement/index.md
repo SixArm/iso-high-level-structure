@@ -2,6 +2,16 @@
 
 This summary is by OpenAI ChatGPT.
 
+Focuses on the need for organizations to continually improve the effectiveness
+and performance of their management system. It requires organizations to
+identify areas for improvement based on the evaluation of performance, audit
+results, and other relevant data, and to take corrective actions to address
+nonconformities. The article encourages a proactive approach to driving
+improvements by responding to emerging issues, opportunities, and changes. By
+fostering a culture of continuous improvement, Article 10 ensures that the
+management system evolves to better meet the organization’s objectives and adapt
+to changing circumstances.
+
 ## Purpose
 
 **Article 10: Improvement** is the **final pillar** of the ISO High-Level Structure (HLS), focusing on **continuous improvement**, **corrective actions**, and responses to **nonconformities**. This article ensures that organizations not only monitor performance (as outlined in Article 9) but actively use those insights to **make things better over time**.
