@@ -1,4 +1,4 @@
-## ISO HLS Article 6: Planning
+# ISO HLS Article 6: Planning
 
 This summary is by OpenAI ChatGPT.
 
@@ -23,7 +23,7 @@ Objectives:
 
 Use the following checklist to ensure your planning activities meet ISO requirements:
 
-* **6.1 Actions to Address Risks and Opportunities**
+**6.1 Actions to Address Risks and Opportunities:**
 
 * Are relevant risks and opportunities been identified in the context of the organization (from Article 4)?
 
@@ -33,7 +33,7 @@ Use the following checklist to ensure your planning activities meet ISO requirem
 
 * Are the actions proportionate to the risk and integrated into the management system?
 
-* **6.2 Management System Objectives and Planning to Achieve Them**
+**6.2 Management System Objectives and Planning to Achieve Them:**
 
 * Have **clear objectives** been set (e.g., quality targets, environmental goals)?
 
@@ -61,7 +61,7 @@ Use the following checklist to ensure your planning activities meet ISO requirem
 
   * How results will be evaluated?
 
-* **6.3 Planning of Changes**
+**6.3 Planning of Changes:**
 
 * Are there processes to plan and manage changes to the management system (e.g., new regulations, mergers, new products)?
 
@@ -77,18 +77,17 @@ Use the following checklist to ensure your planning activities meet ISO requirem
 
 ## Example: ISO 14001:2015 (Environmental Management System)
 
-* **6.1 Actions to Address Risks and Opportunities**. An  electronics
-  manufacturer identifies the risk of chemical spills and regulatory
-  noncompliance. They implement spill containment upgrades, train staff, and
-  conduct quarterly audits to mitigate risks.
+**6.1 Actions to Address Risks and Opportunities**. An  electronics manufacturer
+identifies the risk of chemical spills and regulatory noncompliance. They
+implement spill containment upgrades, train staff, and conduct quarterly audits
+to mitigate risks.
 
-* **6.2 Environmental Objectives**. Objective: Reduce hazardous waste by 20% by
-  end of 2025. Responsibility: Environmental Manager. Actions: Improve process
-  efficiency; find alternative materials. Review Frequency: Quarterly.
-  Evaluation: Monthly waste output reports and annual third-party audit.
+**6.2 Environmental Objectives**. Objective: Reduce hazardous waste by 20% by
+end of 2025. Responsibility: Environmental Manager. Actions: Improve process
+efficiency; find alternative materials. Review Frequency: Quarterly. Evaluation:
+Monthly waste output reports and annual third-party audit.
 
-* **6.3 Planning of Changes**. The company introduces a new manufacturing line.
-  Before implementation, they do the following steps. 1. Conduct an
-  environmental impact assessment. 2. Update procedures and controls. 3. Train
-  employees on the new line’s environmental aspects. 4. Communicate changes to
-  interested parties.
+**6.3 Planning of Changes**. The company introduces a new manufacturing line.
+Before implementation, they do the following steps. 1. Conduct an environmental
+impact assessment. 2. Update procedures and controls. 3. Train employees on the
+new line’s environmental aspects. 4. Communicate changes to interested parties.

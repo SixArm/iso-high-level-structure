@@ -31,7 +31,7 @@ Leadership isn’t about paperwork—it’s about **ownership**, **direction**, 
 
 Use this checklist to ensure that leadership obligations are fully addressed:
 
-* **5.1 Leadership and Commitment**
+**5.1 Leadership and Commitment:**
 
 * Has top management taken responsibility for the effectiveness of the management system?
 
@@ -41,7 +41,7 @@ Use this checklist to ensure that leadership obligations are fully addressed:
 
 * Are policies, objectives, and resources in place and reviewed by leadership?
 
-* **5.2 Policy**
+**5.2 Policy:**
 
 * Has top management established a clear, concise policy (quality, environmental, safety, etc.)?
 
@@ -53,6 +53,8 @@ Use this checklist to ensure that leadership obligations are fully addressed:
   
 * How is the policy available to relevant interested parties?
 
+**5.3 Roles and Responsibilities:**
+
 * Are roles and responsibilities clearly defined, clearly assigned, clearly communicated, and confirmed understood?
 
 * Do people have the authority to act?
@@ -62,19 +64,18 @@ Use this checklist to ensure that leadership obligations are fully addressed:
 ## Example: ISO 9001:2015 (Quality Management System)
 
 * **5.1 Leadership and Commitment**. The CEO of a medical device company chairs
-  quarterly QMS review meetings, ensures quality metrics are integrated into
-  business KPIs, and supports training programs. Instead of delegating quality
-  to one department, the CEO leads quality-focused initiatives and discusses
-  performance regularly with department heads.
+quarterly QMS review meetings, ensures quality metrics are integrated into
+business KPIs, and supports training programs. Instead of delegating quality to
+one department, the CEO leads quality-focused initiatives and discusses
+performance regularly with department heads.
 
 * **5.2 Quality Policy**. We are committed to delivering safe, effective, and
-  innovative medical devices that exceed customer expectations and meet
-  regulatory requirements. We achieve this through employee engagement,
-  continual improvement, and ethical business practices. The policy is printed
-  on workplace posters, included in training, and published on the company
-  website.
+innovative medical devices that exceed customer expectations and meet regulatory
+requirements. We achieve this through employee engagement, continual
+improvement, and ethical business practices. The policy is printed on workplace
+posters, included in training, and published on the company website.
 
 * **5.3 Roles and Responsibilities**. The head of operations is responsible for
-  production quality. A quality assurance manager oversees audits and corrective
-  actions. All department heads are responsible for quality in their teams, as
-  documented in an organizational responsibility matrix.
+production quality. A quality assurance manager oversees audits and corrective
+actions. All department heads are responsible for quality in their teams, as
+documented in an organizational responsibility matrix.

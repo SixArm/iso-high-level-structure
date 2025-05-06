@@ -1,4 +1,4 @@
-## ISO HSL Article 7: Support
+# ISO HSL Article 7: Support
 
 This summary is by OpenAI ChatGPT.
 
